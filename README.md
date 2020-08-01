@@ -1,24 +1,7 @@
-# README
+# 課題2 Bookers2を完成させよう(穴埋め)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DMM WEBCAMPの学習コンテンツの応用課題2です。
 
-Things you may want to cover:
+## 使い方
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby on Rails アプリケーションです。ターミナルから仮想環境を起動後、ローカルで動かすことができます。
